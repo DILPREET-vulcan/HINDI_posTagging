@@ -1,0 +1,5 @@
+### Download the zip file from github
+### Go to download file using: cd ~/Downloads/<repo-name>
+### Install pip environment using: python3 -m v venv env (no need to install it if it's already installed, just move to next step)
+### Activate the environment using: source ./env/bin/activate
+### Execute the final command using: make
