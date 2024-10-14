@@ -2,4 +2,5 @@
 ### Go to download file using: cd ~/Downloads/<repo-name>
 ### Install pip environment using: python3 -m  venv env (no need to install it if it's already installed, just move to next step)
 ### Activate the environment using: source ./env/bin/activate
+### Install the requirements using: pip install -r ./requirements.txt
 ### Execute the final command using: make
