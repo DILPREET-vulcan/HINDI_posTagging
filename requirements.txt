@@ -2,3 +2,9 @@ tensorflow
 pandas
 scikit-learn
 sklearn-crfsuite
+conllu
+matplotlib
+fastText
+numpy
+Keras
+pyconll

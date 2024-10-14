@@ -1,0 +1,17 @@
+# Morphological Analysis of Hindi
+1. Prediction POS tag of Hindi Sentence
+    Accuracy -> 92.04%
+    Macro Precision -> 68.32%
+
+2. Gender, Number, Case Prediction 
+    1. Rule Based:
+        Gender Prediction Accuracy -> 78.52%
+        Number Prediction Accuracy -> 82.97%
+    Deep Learning Based:
+        Gender Prediction Accuracy -> 90.59
+        Number Prediction Accuracy -> 92.46%
+        Case Prediction Accuracy   -> 65.37%
+
+3. Rule Based Lemmatizer
+    Accuracy -> 44.39%
+    
